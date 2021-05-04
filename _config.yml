@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JS의 Study Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JS"
+name                     : "JS Note"
 description              : "의료 인공지능 전문가가 되고 싶은 학생의 블로그입니다"
 url                      : "https://anecdote-lee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
